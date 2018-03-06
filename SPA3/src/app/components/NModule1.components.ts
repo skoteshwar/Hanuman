@@ -6,5 +6,5 @@ import {Component} from "@angular/core";
 })
 export class NModule1Components{
 
-  var_NModule:string="Welcome to NModule  1";
+  var_NModule:string="Welcome to NModule  123654";
 }
